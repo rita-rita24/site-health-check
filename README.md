@@ -7,12 +7,6 @@
 Webサイトを"患者"に見立てて、SEO・速度・セキュリティ・アクセシビリティを総合診断。
 100点満点のスコアと優先度付きの**処方箋**を、その場で発行します。
 
-[![Single HTML](https://img.shields.io/badge/single--file-HTML1-success?style=flat-square)](#)
-[![No deps](https://img.shields.io/badge/dependencies-zero-blue?style=flat-square)](#)
-[![Categories](https://img.shields.io/badge/categories-9-success?style=flat-square)](#)
-[![Checks](https://img.shields.io/badge/checks-76+-success?style=flat-square)](#)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](#license)
-
 </div>
 
 ---
